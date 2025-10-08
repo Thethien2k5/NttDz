@@ -21,12 +21,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NttDz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NttDz&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NttDz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thethien2k5&show_icons=true&theme=tokyonight)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Thethien2k5&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thethien2k5&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🗂️ Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thethien2k5&repo=INTERNAL_INFORMATION_EXCHANGE_FORUM&theme=gruvbox)](https://github.com/Thethien2k5/INTERNAL_INFORMATION_EXCHANGE_FORUM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thethien2k5&repo=simple-rule-chatbot&theme=highcontrast)](https://github.com/Thethien2k5/simple-rule-chatbot)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+## ✍️ Quote on me
+![](https://quotes-github-readme.vercel.app/api?quote=Chu%E1%BB%99t%20th%C3%A0nh%20ph%E1%BB%91%20hay%20chu%E1%BB%99t%20%C4%91%E1%BB%93ng%20qu%C3%AA&author=NttDz&theme=tokyonight)
