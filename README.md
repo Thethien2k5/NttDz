@@ -26,6 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thethien2k5&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🗂️ Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thethien2k5&repo=EzWordMaster&theme=dracula)](https://github.com/Thethien2k5/EzWordMaster)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thethien2k5&repo=INTERNAL_INFORMATION_EXCHANGE_FORUM&theme=gruvbox)](https://github.com/Thethien2k5/INTERNAL_INFORMATION_EXCHANGE_FORUM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thethien2k5&repo=simple-rule-chatbot&theme=highcontrast)](https://github.com/Thethien2k5/simple-rule-chatbot)
 
