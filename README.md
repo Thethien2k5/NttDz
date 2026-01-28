@@ -33,4 +33,4 @@
 
 
 ## ✍️ Quote on me
-![](https://quotes-github-readme.vercel.app/api?quote=Chu%E1%BB%99t%20th%C3%A0nh%20ph%E1%BB%91%20hay%20chu%E1%BB%99t%20%C4%91%E1%BB%93ng%20qu%C3%AA&author=NttDz&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?quote=「Chưa%20đủ%20woww」&author=&theme=tokyonight)
